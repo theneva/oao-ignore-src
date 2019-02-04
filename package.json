@@ -1,0 +1,12 @@
+{
+  "name": "oao-ignore-src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "oao": "^1.5.1"
+  },
+  "packages": [
+    "packages/*"
+  ]
+}
