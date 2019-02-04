@@ -1,9 +1,9 @@
 {
-  "name": "something",
+  "name": "some-app-frontend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "echo 'building something'"
+    "build": "exit 0"
   }
 }
